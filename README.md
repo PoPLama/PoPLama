@@ -109,3 +109,26 @@ when ideas boot up.
 system online
 
 </p>
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=PoPLama&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PoPLama&theme=tokyonight"/>
+
+</p>
+## 💻 Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoPLama&layout=compact&theme=tokyonight"/>
+
+</p>
+## 🏆 Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=PoPLama&theme=tokyonight&row=1&column=6"/>
+
+</p>
