@@ -1,4 +1,3 @@
-# Metsuki
 <p align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0b2e,100:0f3460&height=200&section=header&text=PoPLama&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
